@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, F:/Year2/Digital Design/Lab1/Lab1.vhd
+source_file = 1, F:/Year2/Digital Design/Lab1/Lab1.vwf
+source_file = 1, F:/Year2/Digital Design/Lab1/db/Lab1.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = LAb1
+instance = comp, \f~output , f~output, LAb1, 1
+instance = comp, \x1~input , x1~input, LAb1, 1
+instance = comp, \x2~input , x2~input, LAb1, 1
+instance = comp, \f~0 , f~0, LAb1, 1

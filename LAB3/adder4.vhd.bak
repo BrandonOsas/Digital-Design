@@ -1,0 +1,46 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity adder4 is
+  port (
+    A:  in  std_logic_vector(3 downto 0);
+    B:  in  std_logic_vector(3 downto 0);
+    Ci: in  std_logic;
+    S:  out std_logic_vector(3 downto 0);
+    Co: out std_logic
+  );
+end entity adder4;
+
+architecture behave of adder4 is
+
+  component fulladder is
+    port (
+      A:  in  std_logic;
+      B:  in  std_logic;
+      Ci: in  std_logic;
+      S:  out std_logic;
+      Co: out std_logic
+    );
+  end component fulladder;
+
+  signal Cin: std_logic_vector(4 downto 0);
+
+begin
+
+  adders: for N in 0 to 3 generate
+
+    myfulladder: fulladder
+      port map (
+        A  => A(N),
+        B  => B(N),
+        Ci => Cin(N),
+        Co => Cin(N+1)
+      );
+
+  end generate;
+
+  Cin(0) <= Ci;
+
+  Co <= Cin(4);
+
+end behave;

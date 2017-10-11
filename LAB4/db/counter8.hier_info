@@ -1,0 +1,85 @@
+|counter8
+Enable => st[0].IN1
+Enable => T_flipflop:tff0.t
+clock => T_flipflop:tff0.clock
+clock => T_flipflop:tff1.clock
+clock => T_flipflop:tff2.clock
+clock => T_flipflop:tff3.clock
+clock => T_flipflop:tff4.clock
+clock => T_flipflop:tff5.clock
+clock => T_flipflop:tff6.clock
+clock => T_flipflop:tff7.clock
+clear => T_flipflop:tff0.reset
+clear => T_flipflop:tff1.reset
+clear => T_flipflop:tff2.reset
+clear => T_flipflop:tff3.reset
+clear => T_flipflop:tff4.reset
+clear => T_flipflop:tff5.reset
+clear => T_flipflop:tff6.reset
+clear => T_flipflop:tff7.reset
+Q[0] << T_flipflop:tff0.q
+Q[1] << T_flipflop:tff1.q
+Q[2] << T_flipflop:tff2.q
+Q[3] << T_flipflop:tff3.q
+Q[4] << T_flipflop:tff4.q
+Q[5] << T_flipflop:tff5.q
+Q[6] << T_flipflop:tff6.q
+Q[7] << T_flipflop:tff7.q
+
+
+|counter8|T_flipflop:tff0
+t => Qsig.ENA
+clock => Qsig.CLK
+reset => Qsig.ACLR
+q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|counter8|T_flipflop:tff1
+t => Qsig.ENA
+clock => Qsig.CLK
+reset => Qsig.ACLR
+q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|counter8|T_flipflop:tff2
+t => Qsig.ENA
+clock => Qsig.CLK
+reset => Qsig.ACLR
+q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|counter8|T_flipflop:tff3
+t => Qsig.ENA
+clock => Qsig.CLK
+reset => Qsig.ACLR
+q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|counter8|T_flipflop:tff4
+t => Qsig.ENA
+clock => Qsig.CLK
+reset => Qsig.ACLR
+q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|counter8|T_flipflop:tff5
+t => Qsig.ENA
+clock => Qsig.CLK
+reset => Qsig.ACLR
+q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|counter8|T_flipflop:tff6
+t => Qsig.ENA
+clock => Qsig.CLK
+reset => Qsig.ACLR
+q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|counter8|T_flipflop:tff7
+t => Qsig.ENA
+clock => Qsig.CLK
+reset => Qsig.ACLR
+q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+

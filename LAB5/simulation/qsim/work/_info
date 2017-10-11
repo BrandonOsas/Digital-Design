@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Year2\Digital Design\LAB5\simulation\qsim
+vTaillight
+Z1 !s100 SK3?B_YMPfHfe7nAESn412
+Z2 I2;Kn_bnMnF6Wo2J[WmaW:2
+Z3 VZ^e@FGci`N[UlT>HC5ho03
+Z4 dF:\Year2\Digital Design\LAB5\simulation\qsim
+Z5 w1481112784
+Z6 8Taillight.vo
+Z7 FTaillight.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Taillight.vo|
+Z10 o-work work -O0
+Z11 n@taillight
+!i10b 1
+!s85 0
+Z12 !s108 1481112783.670000
+Z13 !s107 Taillight.vo|
+!s101 -O0
+vTaillight_vlg_check_tst
+!i10b 1
+Z14 !s100 24d_oLznL;lgShjn8C5_c1
+Z15 I9D`zZSo9ZzX8Jjm3b;0RR3
+Z16 Vg`>QkS0TUjX8kBlkgI6K^1
+R4
+Z17 w1481112782
+Z18 8Taillight.vt
+Z19 FTaillight.vt
+L0 65
+R8
+r1
+!s85 0
+31
+Z20 !s108 1481112783.810000
+Z21 !s107 Taillight.vt|
+Z22 !s90 -work|work|Taillight.vt|
+!s101 -O0
+R10
+Z23 n@taillight_vlg_check_tst
+vTaillight_vlg_sample_tst
+!i10b 1
+Z24 !s100 1i;U3h[8RbW<o_5efTjC=0
+Z25 I1M_jkH6hXo]<Uo1O_;VQF0
+Z26 V<@n=mZ;N:BzIkO`1B5=lX0
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@taillight_vlg_sample_tst
+vTaillight_vlg_vec_tst
+!i10b 1
+!s100 `=Xd0YnRRif]@lbKdo_Sn2
+IKObThRZ04:l0]LezY8l872
+Z28 VM63EDQ?<H?fd6J@?i1S]R1
+R4
+R17
+R18
+R19
+Z29 L0 249
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@taillight_vlg_vec_tst

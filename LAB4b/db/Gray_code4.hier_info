@@ -1,0 +1,45 @@
+|exam3
+EN => E[0].IN1
+EN => exam2:inst0.T
+CLK => exam2:inst0.RST
+CLK => exam2:inst1.RST
+CLK => exam2:inst2.RST
+CLK => exam2:inst3.RST
+CL => exam2:inst0.CLK
+CL => exam2:inst1.CLK
+CL => exam2:inst2.CLK
+CL => exam2:inst3.CLK
+Q[0] << exam2:inst0.Q
+Q[1] << exam2:inst1.Q
+Q[2] << exam2:inst2.Q
+Q[3] << exam2:inst3.Q
+
+
+|exam3|exam2:inst0
+T => Qsig.ENA
+RST => Qsig.ACLR
+CLK => Qsig.CLK
+Q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|exam3|exam2:inst1
+T => Qsig.ENA
+RST => Qsig.ACLR
+CLK => Qsig.CLK
+Q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|exam3|exam2:inst2
+T => Qsig.ENA
+RST => Qsig.ACLR
+CLK => Qsig.CLK
+Q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|exam3|exam2:inst3
+T => Qsig.ENA
+RST => Qsig.ACLR
+CLK => Qsig.CLK
+Q <= Qsig.DB_MAX_OUTPUT_PORT_TYPE
+
+

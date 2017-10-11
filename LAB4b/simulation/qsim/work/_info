@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Year2\Digital Design\LAB4b\simulation\qsim
+vGray_code4
+Z1 IKN;OcM5263DCBEKZkADzI0
+Z2 VbZ;L@PkL^Z@cS0E`oo?;e1
+Z3 dF:\Year2\Digital Design\LAB4b\simulation\qsim
+Z4 w1480509090
+Z5 8Gray_code4.vo
+Z6 FGray_code4.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|Gray_code4.vo|
+Z9 o-work work -O0
+Z10 n@gray_code4
+!i10b 1
+Z11 !s100 5CRN37FV4`7GT;mAzka>m3
+!s85 0
+Z12 !s108 1480509089.043000
+Z13 !s107 Gray_code4.vo|
+!s101 -O0
+vGray_code4_vlg_check_tst
+!i10b 1
+Z14 !s100 QC]CD6i=MPEmnEjE;]=_>0
+Z15 IL[HQEJ;3JoLe0cF2_M>^63
+Z16 VcgUoZgk5NDG3ledeKNTa:0
+R3
+Z17 w1480509088
+Z18 8Gray_code4.vt
+Z19 FGray_code4.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z20 !s108 1480509089.167000
+Z21 !s107 Gray_code4.vt|
+Z22 !s90 -work|work|Gray_code4.vt|
+!s101 -O0
+R9
+Z23 n@gray_code4_vlg_check_tst
+vGray_code4_vlg_sample_tst
+!i10b 1
+Z24 !s100 leBTSe81]11gD^LTCBX710
+Z25 I=dhSSgMTW8nnzSUWcX;=O2
+Z26 V3[0dHa[^7^HCBj;UdETB?0
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@gray_code4_vlg_sample_tst
+vGray_code4_vlg_vec_tst
+!i10b 1
+Z28 !s100 9=eDnBa5:h>AQoTb^7c7N2
+Z29 I1eii9hz8QYD`fkBb^ZUj92
+Z30 VNmenD<EROW?=K[iRQ7g5o0
+R3
+R17
+R18
+R19
+Z31 L0 207
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@gray_code4_vlg_vec_tst

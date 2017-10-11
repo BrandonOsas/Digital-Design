@@ -1,0 +1,277 @@
+{F:/Year2/Digital Design/CPU_ASS/Decode16.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/Decode16.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Decode16
+-- Compiling architecture structure of Decode16
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/fulladder.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/fulladder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladder
+-- Compiling architecture dataflow of fulladder
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/RS_CPU.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/RS_CPU.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity RS_CPU
+-- Compiling architecture behave of RS_CPU
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/mux2.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/mux2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux2
+-- Compiling architecture behave of mux2
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/register16.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/register16.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity register16
+-- Compiling architecture behave of register16
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/Decode8.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/Decode8.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Decode8
+-- Compiling architecture structure of Decode8
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/mux3.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/mux3.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux3
+-- Compiling architecture behave of mux3
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/register1.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/register1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity register1
+-- Compiling architecture behave of register1
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/mux4.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/mux4.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux4
+-- Compiling architecture behave of mux4
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/Padder.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/Padder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity padder
+-- Compiling architecture behav of padder
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/buffer16.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/buffer16.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity buffer16
+-- Compiling architecture behave of buffer16
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/buffer8.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/buffer8.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity buffer8
+-- Compiling architecture behave of buffer8
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/buffer8.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/buffer8.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity buffer8
+-- Compiling architecture behave of buffer8
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/T_counter.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/T_counter.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity T_counter
+-- Compiling architecture Behave of T_counter
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/register16.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/register16.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity register16
+-- Compiling architecture behave of register16
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/T_counter.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/T_counter.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity T_counter
+-- Compiling architecture Behave of T_counter
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/register8.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/register8.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity register8
+-- Compiling architecture behave of register8
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/mux2.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/mux2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux2
+-- Compiling architecture behave of mux2
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/RS_CPU.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/RS_CPU.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity RS_CPU
+-- Compiling architecture behave of RS_CPU
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/register8.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/register8.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity register8
+-- Compiling architecture behave of register8
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/Decoder16.vhd} {0 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/Decoder16.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+** Error: F:/Year2/Digital Design/CPU_ASS/Decoder16.vhd(2): (vcom-1491) Empty source files.
+
+
+} {4.0 5.0} {}} {F:/Year2/Digital Design/CPU_ASS/mux3.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/mux3.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux3
+-- Compiling architecture behave of mux3
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/mux4.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/mux4.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux4
+-- Compiling architecture behave of mux4
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/buffer16.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/buffer16.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity buffer16
+-- Compiling architecture behave of buffer16
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/Padder.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/Padder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity padder
+-- Compiling architecture behav of padder
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/Control_Unit.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/Control_Unit.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Control_Unit
+-- Compiling architecture behave of Control_Unit
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/ALU.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/ALU.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALU
+-- Compiling architecture behave of ALU
+
+} {} {}} {E:/Year2/Digital Design/CPU_ASS/fulladder.vhd} {1 {vcom -work work -2002 -explicit {E:/Year2/Digital Design/CPU_ASS/fulladder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladder
+-- Compiling architecture dataflow of fulladder
+
+} {} {}} {F:/Year2/Digital Design/CPU_ASS/ALU.vhd} {1 {vcom -work work -2002 -explicit {F:/Year2/Digital Design/CPU_ASS/ALU.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALU
+-- Compiling architecture behave of ALU
+
+} {} {}}

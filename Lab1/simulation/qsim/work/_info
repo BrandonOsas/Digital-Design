@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Year2\Digital Design\Lab1\simulation\qsim
+vLAb1
+Z1 !s100 _AV[gVEZE2ola9E@Mk7]k0
+Z2 I9Ae^go[]:dEj5O6YJF:kV3
+Z3 V@8b5T=S`UhCKz=bU^Tii00
+Z4 dF:\Year2\Digital Design\Lab1\simulation\qsim
+Z5 w1474455244
+Z6 8Lab1.vo
+Z7 FLab1.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Lab1.vo|
+Z10 o-work work -O0
+Z11 n@l@ab1
+!i10b 1
+!s85 0
+Z12 !s108 1474455244.457000
+Z13 !s107 Lab1.vo|
+!s101 -O0
+vLAb1_vlg_check_tst
+!i10b 1
+Z14 !s100 0KUb[TOO7d@mYW7iBHKV70
+Z15 IIShWW_UzfGF0DiI1ecnI33
+Z16 VjTm]lBQ]Cj3aKFDaCRKYa3
+R4
+R5
+Z17 8Lab1.vt
+Z18 FLab1.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z19 !s108 1474455244.629000
+Z20 !s107 Lab1.vt|
+Z21 !s90 -work|work|Lab1.vt|
+!s101 -O0
+R10
+Z22 n@l@ab1_vlg_check_tst
+vLAb1_vlg_sample_tst
+!i10b 1
+Z23 !s100 T5eMHPehg_U`T?I8:HT2k1
+Z24 I4@IEB0>?2cNBB;5iekGFh2
+Z25 V>zm5@3P]bX@a;:CH5?T@<3
+R4
+R5
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z26 n@l@ab1_vlg_sample_tst
+vLAb1_vlg_vec_tst
+!i10b 1
+!s100 k^XR@cWXH=eT4AWB]CCgB3
+IM3d9K6b:5HeIOO0D]KjC30
+Z27 VH@3kPana0CS2PW4Rf^cK41
+R4
+R5
+R17
+R18
+Z28 L0 154
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z29 n@l@ab1_vlg_vec_tst

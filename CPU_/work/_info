@@ -1,0 +1,663 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Ealu
+Z0 w1490360640
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dF:\Year2\Digital Design\CPU_ASS
+Z6 8F:/Year2/Digital Design/CPU_ASS/ALU.vhd
+Z7 FF:/Year2/Digital Design/CPU_ASS/ALU.vhd
+l0
+L5
+V^WaS;cAPEHYA`m`5L4>5Z1
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1491414214.153000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/ALU.vhd|
+Z11 !s107 F:/Year2/Digital Design/CPU_ASS/ALU.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 YONkF]?aVhid16;RBeHBK3
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 ^WaS;cAPEHYA`m`5L4>5Z1
+l42
+L13
+VP0@6>2H5@8A6g7YjMQ@:l1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 1RRm1b4LRNzRKFU04iL1E3
+!i10b 1
+Ebuffer16
+Z14 w1491338760
+R1
+R2
+R3
+R4
+R5
+Z15 8F:/Year2/Digital Design/CPU_ASS/buffer16.vhd
+Z16 FF:/Year2/Digital Design/CPU_ASS/buffer16.vhd
+l0
+L5
+V5jNoQ0LMRkXkfVhjLUMXZ0
+R8
+32
+Z17 !s108 1491414214.449000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/buffer16.vhd|
+Z19 !s107 F:/Year2/Digital Design/CPU_ASS/buffer16.vhd|
+R12
+R13
+!s100 HTnJU6gQ[o7GKD>AQlKMH2
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 8 buffer16 0 22 5jNoQ0LMRkXkfVhjLUMXZ0
+l13
+L12
+VamZgdPKnB`6N;9khe];BR0
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 AYS<nf4L;z>[03FKEeb8G1
+!i10b 1
+Ebuffer8
+Z20 w1491338880
+R1
+R2
+R3
+R4
+R5
+Z21 8F:/Year2/Digital Design/CPU_ASS/buffer8.vhd
+Z22 FF:/Year2/Digital Design/CPU_ASS/buffer8.vhd
+l0
+L5
+V9n1K]6odFGZ3QMRj^h_1^1
+R8
+32
+Z23 !s108 1491414214.293000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/buffer8.vhd|
+Z25 !s107 F:/Year2/Digital Design/CPU_ASS/buffer8.vhd|
+R12
+R13
+!s100 @i_X6DXkbV4?>?DEiJTBj0
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 7 buffer8 0 22 9n1K]6odFGZ3QMRj^h_1^1
+l13
+L12
+Vc74dSom`^]ef11Z_>H?8l0
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!s100 ]UY3z9L2FN89`nOcWQo`K1
+!i10b 1
+Econtrol_unit
+Z26 w1491384488
+R3
+R4
+R5
+Z27 8F:/Year2/Digital Design/CPU_ASS/Control_Unit.vhd
+Z28 FF:/Year2/Digital Design/CPU_ASS/Control_Unit.vhd
+l0
+L3
+VFXfnf>fCBQQfD33ImMKLQ0
+R8
+32
+Z29 !s108 1491414216.337000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/Control_Unit.vhd|
+Z31 !s107 F:/Year2/Digital Design/CPU_ASS/Control_Unit.vhd|
+R12
+R13
+!s100 CY=SU8GJ8TY4NARD9bT7e0
+!i10b 1
+Abehave
+R3
+R4
+DEx4 work 12 control_unit 0 22 FXfnf>fCBQQfD33ImMKLQ0
+l51
+L11
+V`@:>hiEYbPz[CiWo9dGUK3
+!s100 [<`8551fMFWPDg_b=SD9:2
+R8
+32
+R29
+R30
+R31
+R12
+R13
+!i10b 1
+Edecode16
+Z32 w1490956338
+R3
+R4
+R5
+Z33 8F:/Year2/Digital Design/CPU_ASS/Decode16.vhd
+Z34 FF:/Year2/Digital Design/CPU_ASS/Decode16.vhd
+l0
+L3
+VTX@oMO4J0PXn0C99?_QG?2
+R8
+32
+Z35 !s108 1491414214.730000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/Decode16.vhd|
+Z37 !s107 F:/Year2/Digital Design/CPU_ASS/Decode16.vhd|
+R12
+R13
+!s100 Rg<m8g]Q6?ZLeO60@4lD92
+!i10b 1
+Astructure
+R3
+R4
+DEx4 work 8 decode16 0 22 TX@oMO4J0PXn0C99?_QG?2
+l10
+L8
+V9=<_V0]K[20l^e5`h=WkS1
+R8
+32
+R35
+R36
+R37
+R12
+R13
+!s100 FKABZ0E>]98EBYfY1>4aW3
+!i10b 1
+Edecode8
+Z38 w1490962908
+R3
+R4
+R5
+Z39 8F:/Year2/Digital Design/CPU_ASS/Decode8.vhd
+Z40 FF:/Year2/Digital Design/CPU_ASS/Decode8.vhd
+l0
+L3
+V4TeVJhBd]15`8PHFkShUR1
+R8
+32
+Z41 !s108 1491414214.590000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/Decode8.vhd|
+Z43 !s107 F:/Year2/Digital Design/CPU_ASS/Decode8.vhd|
+R12
+R13
+!s100 ^Cgfn3eBcHU_WjJI7;0OW1
+!i10b 1
+Astructure
+R3
+R4
+DEx4 work 7 decode8 0 22 4TeVJhBd]15`8PHFkShUR1
+l9
+L8
+VaJzVYG[=Y]aDU::9`DC0L3
+R8
+32
+R41
+R42
+R43
+R12
+R13
+!s100 Pz<j3HgXRKnkERhbIU1lZ0
+!i10b 1
+Efulladder
+Z44 w1490360664
+R3
+R4
+R5
+Z45 8F:/Year2/Digital Design/CPU_ASS/fulladder.vhd
+Z46 FF:/Year2/Digital Design/CPU_ASS/fulladder.vhd
+l0
+L3
+VEk1HmY63TUVaWFEZVef@=0
+R8
+32
+Z47 !s108 1491414214.886000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/fulladder.vhd|
+Z49 !s107 F:/Year2/Digital Design/CPU_ASS/fulladder.vhd|
+R12
+R13
+!s100 ]UHM9e3]<YbQ:Z?RRlMQl2
+!i10b 1
+Adataflow
+R3
+R4
+DEx4 work 9 fulladder 0 22 Ek1HmY63TUVaWFEZVef@=0
+l10
+L9
+V8bYdLC>V_Ol?aH?QAaO^B1
+R8
+32
+R47
+R48
+R49
+R12
+R13
+!s100 JR7@MD2jMULncQZ>_bV<A2
+!i10b 1
+Emux2
+Z50 w1490360906
+R1
+R2
+R3
+R4
+R5
+Z51 8F:/Year2/Digital Design/CPU_ASS/mux2.vhd
+Z52 FF:/Year2/Digital Design/CPU_ASS/mux2.vhd
+l0
+L5
+V@nj@bgDU>XNGka?VPKjg83
+R8
+32
+Z53 !s108 1491414215.026000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/mux2.vhd|
+Z55 !s107 F:/Year2/Digital Design/CPU_ASS/mux2.vhd|
+R12
+R13
+!s100 gJG@l0>a5lACNfbXKDAH20
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 4 mux2 0 22 @nj@bgDU>XNGka?VPKjg83
+l13
+L12
+VEN5o<aUMS7`]_FnFKLO^o0
+R8
+32
+R53
+R54
+R55
+R12
+R13
+!s100 hV7mk9?K>z544BXP_i=8U3
+!i10b 1
+Emux3
+Z56 w1490360578
+R1
+R2
+R3
+R4
+R5
+Z57 8F:/Year2/Digital Design/CPU_ASS/mux3.vhd
+Z58 FF:/Year2/Digital Design/CPU_ASS/mux3.vhd
+l0
+L5
+Va:gi5c73]MG:3IJN`KIF]0
+R8
+32
+Z59 !s108 1491414215.167000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/mux3.vhd|
+Z61 !s107 F:/Year2/Digital Design/CPU_ASS/mux3.vhd|
+R12
+R13
+!s100 Q:Wa4O4C?>jj5DYljJHJj0
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 4 mux3 0 22 a:gi5c73]MG:3IJN`KIF]0
+l13
+L12
+VjmEOOE>><Ci06;UBbFH272
+R8
+32
+R59
+R60
+R61
+R12
+R13
+!s100 MllI1iJehWc9XZb94T8981
+!i10b 1
+Emux4
+Z62 w1490360612
+R1
+R2
+R3
+R4
+R5
+Z63 8F:/Year2/Digital Design/CPU_ASS/mux4.vhd
+Z64 FF:/Year2/Digital Design/CPU_ASS/mux4.vhd
+l0
+L5
+VMnIX9>7Y`cU2HXASCh^5Y1
+R8
+32
+Z65 !s108 1491414215.323000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/mux4.vhd|
+Z67 !s107 F:/Year2/Digital Design/CPU_ASS/mux4.vhd|
+R12
+R13
+!s100 91HE>TXLfQk5>ghg0MR>W2
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 4 mux4 0 22 MnIX9>7Y`cU2HXASCh^5Y1
+l16
+L13
+V3cGI??@lT7<20DkaGTMi83
+R8
+32
+R65
+R66
+R67
+R12
+R13
+!s100 O;DP6dd;F?FoCc8<b5Km23
+!i10b 1
+Epadder
+Z68 w1490360628
+R1
+R2
+R3
+R4
+R5
+Z69 8F:/Year2/Digital Design/CPU_ASS/Padder.vhd
+Z70 FF:/Year2/Digital Design/CPU_ASS/Padder.vhd
+l0
+L6
+V?WVD4M8nWGQBTWW^Vo3WA3
+R8
+32
+Z71 !s108 1491414215.463000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/Padder.vhd|
+Z73 !s107 F:/Year2/Digital Design/CPU_ASS/Padder.vhd|
+R12
+R13
+!s100 ^E?[o<95?eka2JUL@focC0
+!i10b 1
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 6 padder 0 22 ?WVD4M8nWGQBTWW^Vo3WA3
+l17
+L16
+VCN;=ghA_^;TV:U_1nMoll2
+R8
+32
+R71
+R72
+R73
+R12
+R13
+!s100 zWee_X:=>S=fT_E55A:o02
+!i10b 1
+Eregister1
+Z74 w1491414630
+R1
+R2
+R3
+R4
+R5
+Z75 8F:/Year2/Digital Design/CPU_ASS/register1.vhd
+Z76 FF:/Year2/Digital Design/CPU_ASS/register1.vhd
+l0
+L5
+V2i2Mz06B903ZIfd4k8lAD3
+!s100 ^oi3fW:mCFc5Z2dDBc9d_2
+R8
+32
+!i10b 1
+Z77 !s108 1491414632.526000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/register1.vhd|
+Z79 !s107 F:/Year2/Digital Design/CPU_ASS/register1.vhd|
+R12
+R13
+Abehave
+R1
+R2
+R3
+R4
+Z80 DEx4 work 9 register1 0 22 2i2Mz06B903ZIfd4k8lAD3
+l14
+L12
+V=SegCJKW@T:^2Th6]ShFg2
+!s100 K;Dd5?Y?mX2^]Qo=FQiJ=0
+R8
+32
+!i10b 1
+R77
+R78
+R79
+R12
+R13
+Eregister16
+Z81 w1491340034
+R1
+R2
+R3
+R4
+R5
+Z82 8F:/Year2/Digital Design/CPU_ASS/register16.vhd
+Z83 FF:/Year2/Digital Design/CPU_ASS/register16.vhd
+l0
+L5
+VmaX[Og>NXRQZZfFM2me^o1
+R8
+32
+Z84 !s108 1491414215.916000
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/register16.vhd|
+Z86 !s107 F:/Year2/Digital Design/CPU_ASS/register16.vhd|
+R12
+R13
+!s100 JA[[m;8e]jBCW`8N>c5DN1
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 10 register16 0 22 maX[Og>NXRQZZfFM2me^o1
+l15
+L13
+VL=:MbdRX8OFQ2g>380ABV2
+R8
+32
+R84
+R85
+R86
+R12
+R13
+!s100 C[fEfk3k^?<820oB>O5S_2
+!i10b 1
+Eregister8
+Z87 w1491414206
+R1
+R2
+R3
+R4
+R5
+Z88 8F:/Year2/Digital Design/CPU_ASS/register8.vhd
+Z89 FF:/Year2/Digital Design/CPU_ASS/register8.vhd
+l0
+L5
+VCdJm]3QF??5:PY[51Ok_a2
+R8
+32
+Z90 !s108 1491414215.760000
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/register8.vhd|
+Z92 !s107 F:/Year2/Digital Design/CPU_ASS/register8.vhd|
+R12
+R13
+!s100 8^[c;<WN5S@dLUAXG>e2U3
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 9 register8 0 22 CdJm]3QF??5:PY[51Ok_a2
+l15
+L13
+VmMWLlGJW`;VXDAQ=E?HDZ3
+R8
+32
+R90
+R91
+R92
+R12
+R13
+!s100 ff_QE2JEfeWB[0RM_NQZH0
+!i10b 1
+Ers_cpu
+Z93 w1490360892
+R1
+R2
+R3
+R4
+R5
+Z94 8F:/Year2/Digital Design/CPU_ASS/RS_CPU.vhd
+Z95 FF:/Year2/Digital Design/CPU_ASS/RS_CPU.vhd
+l0
+L5
+VL0WQW5LA9ze<hU[ee4_D@2
+R8
+32
+Z96 !s108 1491414216.056000
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/RS_CPU.vhd|
+Z98 !s107 F:/Year2/Digital Design/CPU_ASS/RS_CPU.vhd|
+R12
+R13
+!s100 _?@LQA=z?HYImW:S_hm<_3
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 6 rs_cpu 0 22 L0WQW5LA9ze<hU[ee4_D@2
+l62
+L13
+VTD;?06fbX5[03B8P<E7F23
+R8
+32
+R96
+R97
+R98
+R12
+R13
+!s100 bk@`;90OLI6mhLmihS7@M3
+!i10b 1
+Et_counter
+Z99 w1491381770
+R1
+R2
+R3
+R4
+R5
+Z100 8F:/Year2/Digital Design/CPU_ASS/T_counter.vhd
+Z101 FF:/Year2/Digital Design/CPU_ASS/T_counter.vhd
+l0
+L5
+VYXW<4Xo[U5E?Q=moW7fRm0
+R8
+32
+Z102 !s108 1491414216.196000
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/Year2/Digital Design/CPU_ASS/T_counter.vhd|
+Z104 !s107 F:/Year2/Digital Design/CPU_ASS/T_counter.vhd|
+R12
+R13
+!s100 `WMIERUN4[ZKI?l=N[0mR3
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 9 t_counter 0 22 YXW<4Xo[U5E?Q=moW7fRm0
+l23
+L12
+V@V:3K^c=]LOLW=5=gz=^@0
+R8
+32
+R102
+R103
+R104
+R12
+R13
+!s100 <01Q[[m[ed>b6J<^:kNeD3
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 9 t_counter 0 22 7NKE:UMOigJ8BPXIaJ6Uz3
+l61
+L59
+V7lGBMdkTJhK5mSnRcMK^D2
+R8
+32
+R12
+R13
+w1490794978
+R103
+R104
+!s108 1490794976.353000
+!s100 =8QCd@TOIPfORO<K^710o2
+!i10b 1
+Etest
+Z105 w1490954472
+Z106 dE:\Year2\Digital Design\CPU_ASS
+Z107 8E:/Year2/Digital Design/CPU_ASS/test.vhd
+Z108 FE:/Year2/Digital Design/CPU_ASS/test.vhd
+l0
+L1
+VSg76[gFUT[;bif4D4:Rg42
+R8
+32
+Z109 !s108 1490954473.853000
+Z110 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/Year2/Digital Design/CPU_ASS/test.vhd|
+Z111 !s107 E:/Year2/Digital Design/CPU_ASS/test.vhd|
+R12
+R13
+!s100 [m[I2d>`QzB37hl7ZL:G]3
+!i10b 1
+Abehav
+DEx4 work 4 test 0 22 Sg76[gFUT[;bif4D4:Rg42
+l6
+L5
+VCBKldH=9d4`O3G56]LCLf0
+R8
+32
+R109
+R110
+R111
+R12
+R13
+!s100 eN6U4o`Cz??_Oaii@e9EY2
+!i10b 1

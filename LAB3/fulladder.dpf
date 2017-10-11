@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="S[3]" source="Pin Planner" >
+		</pin>
+		<pin name="S[2]" source="Pin Planner" >
+		</pin>
+		<pin name="S[1]" source="Pin Planner" >
+		</pin>
+		<pin name="S[0]" source="Pin Planner" >
+		</pin>
+		<pin name="a[3]" source="Pin Planner" >
+		</pin>
+		<pin name="a[2]" source="Pin Planner" >
+		</pin>
+		<pin name="a[1]" source="Pin Planner" >
+		</pin>
+		<pin name="a[0]" source="Pin Planner" >
+		</pin>
+		<pin name="b[3]" source="Pin Planner" >
+		</pin>
+		<pin name="b[2]" source="Pin Planner" >
+		</pin>
+		<pin name="b[1]" source="Pin Planner" >
+		</pin>
+		<pin name="b[0]" source="Pin Planner" >
+		</pin>
+	</pin_info>
+	<buses>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>

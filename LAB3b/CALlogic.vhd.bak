@@ -1,0 +1,43 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all; 
+USE ieee.std_logic_unsigned.all;
+LIBRARY work;
+
+entity CALlogic is 
+port(
+			bA,bB	: in std_logic_vector(3 downto 0);
+			BCD1	: out std_logic_vector(6 downto 0);
+			BCD0	: out std_logic_vector(6 downto 0)
+		);
+end entity;
+
+architecture bahavioural of CALlogic is
+		signal A : std_logic_vector (3 downto 0);
+		signal B : std_logic_vector (3 downto 0);
+		signal T : std_logic_vector (3 downto 0);
+		signal Z : std_logic_vector (3 downto 0);
+		signal S : std_logic_vector (3 downto 0);
+		signal S1: std_logic_vector (3 downto 0);
+		signal C : std_logic;
+
+begin
+process(bA,bB)
+		begin
+		
+				T <= A + B;
+				if (T > 9) 
+				then
+						Z <= "1010";
+						C <= '1';
+				
+				else	
+						Z <= "0000";
+						C <= '0';
+				end if ;
+				S <= T - Z;
+				S1 <= ("000" & C);
+end process;
+				
+end bahavioural;
+								
+			

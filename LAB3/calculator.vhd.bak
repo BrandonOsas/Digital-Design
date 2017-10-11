@@ -1,0 +1,68 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all; 
+
+LIBRARY work;
+
+entity calculator is 
+port (calA, calB		: in std_logic_vector(3 downto 0);
+				calD1		: out std_logic_vector(7 downto 0);
+				calD0		: out std_logic_vector(7 downto 0));
+end entity;
+
+architecture structural of calculator is 
+
+component adder4 is 
+port
+	(
+		Ci :  IN  STD_LOGIC;
+		a0 :  IN  STD_LOGIC;
+		a1 :  IN  STD_LOGIC;
+		a2 :  IN  STD_LOGIC;
+		a3 :  IN  STD_LOGIC;
+		b0 :  IN  STD_LOGIC;
+		b1 :  IN  STD_LOGIC;
+		b2 :  IN  STD_LOGIC;
+		b3 :  IN  STD_LOGIC;
+		S0 :  OUT  STD_LOGIC;
+		S1 :  OUT  STD_LOGIC;
+		S2 :  OUT  STD_LOGIC;
+		S3 :  OUT  STD_LOGIC;
+		Cout :  OUT  STD_LOGIC
+	);
+end component;
+
+component circuitA is 
+port(
+		sum	: in std_logic_vector (3 downto 0);
+		cout	: in std_logic;
+		D1		:out std_logic_vector (7 downto 0);
+		D0 	:out std_logic_vector (7 downto 0));
+end component;
+
+
+signal calS : std_logic_vector (3 downto 0);
+signal calC : std_logic;
+
+
+begin
+
+adder4 : adder4
+port map (calA, calB, calS, calC);
+
+circuitA : circuitA
+port map (calS, calC, D1, D0);
+
+
+end structural;
+
+
+
+
+
+
+
+
+
+
+
+

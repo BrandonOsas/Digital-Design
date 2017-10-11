@@ -1,0 +1,44 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all; 
+USE ieee.std_logic_unsigned.all;
+
+entity Gray_code4 is
+	port ( 
+			clock : in std_logic;
+			reset : in std_logic
+			Q		: out std_logic_vector(3 downto 0)
+			);
+end entity;
+
+architecture foo Gray_code4 is 
+	signal sq : std_logic_vector(3 downto 0)
+
+begin
+process (clock,reset)
+	begin
+	if (reset = '0') then
+		sq <= "0000";
+		else if rising_edge(clock) then
+			case sq is 
+				when "0000" => sq <= "0000";--0
+				when "0001" => sq <= "0001";--1
+				when "0010" => sq <= "0011";--2
+				when "0011" => sq <= "0010";--3
+				when "0100" => sq <= "0110";--4
+				when "0101" => sq <= "0111";--5
+				when "0110" => sq <= "0101";--6
+				when "0111" => sq <= "0100";--7
+				when "1000" => sq <= "1100";--8
+				when "1001" => sq <= "1101";--9
+				when "1010" => sq <= "1111";--10
+				when "1011" => sq <= "1110";--11
+				when "1100" => sq <= "1010";--12
+				when "1101" => sq <= "1011";--13
+				when "1110" => sq <= "1001";--14
+				when "1111" => sq <= "1000";--15
+				when others => sq <= "0000";--others
+			end case;
+		end if;
+	end if;
+end process;
+Q<

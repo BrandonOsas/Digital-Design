@@ -1,0 +1,22 @@
+Library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+
+entity of t_ff is 
+	port( T,RST,CLK : in std_logic;
+			Q			 : out std_logic);
+end entity;
+
+architecture behavioural of t_ff is 
+signal Qsig : std_logic;
+begin
+	process(T,RST,CLK)
+	begin
+		if (rising_edge(CLK) and T='1') then 
+		Qsig <= not Qsig;
+		elsif RST = '0' then
+				Qsig = '0';
+		end if;
+	end process
+		Q <= Qsig;
+end behavioural;

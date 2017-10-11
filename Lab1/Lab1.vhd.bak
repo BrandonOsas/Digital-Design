@@ -1,0 +1,6 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+ENTITY LAb1 is
+	PORT (x1, x2: IN	STD_logic;
+			 f		:OUT	STD_LOGIC);
+END Lab1

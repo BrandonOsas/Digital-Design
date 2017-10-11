@@ -1,0 +1,41 @@
+|Taillight
+clock => Lights[0]~reg0.CLK
+clock => Lights[1]~reg0.CLK
+clock => Lights[2]~reg0.CLK
+clock => Lights[3]~reg0.CLK
+clock => Lights[4]~reg0.CLK
+clock => Lights[5]~reg0.CLK
+reset => Lights.OUTPUTSELECT
+reset => Lights.OUTPUTSELECT
+reset => Lights.OUTPUTSELECT
+reset => Lights.OUTPUTSELECT
+reset => Lights.OUTPUTSELECT
+reset => Lights.OUTPUTSELECT
+L => process_0.IN0
+L => Lights.OUTPUTSELECT
+L => Lights.DATAA
+R => process_0.IN1
+R => Lights.DATAA
+Haz => process_0.IN1
+Haz => Mux0.IN6
+Haz => Mux0.IN7
+Haz => Mux1.IN6
+Haz => Mux1.IN7
+Haz => Mux2.IN5
+Haz => Mux2.IN6
+Haz => Mux2.IN7
+Haz => Mux3.IN5
+Haz => Mux3.IN6
+Haz => Mux3.IN7
+Haz => Mux4.IN6
+Haz => Mux4.IN7
+Haz => Mux5.IN6
+Haz => Mux5.IN7
+Lights[0] << Lights[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Lights[1] << Lights[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Lights[2] << Lights[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Lights[3] << Lights[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Lights[4] << Lights[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Lights[5] << Lights[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

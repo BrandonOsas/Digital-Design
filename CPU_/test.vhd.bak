@@ -1,0 +1,8 @@
+entity test is
+  port(d: in bit;
+    q : out bit);
+    
+architecture behav of test is
+  begin
+      q<=d;
+    end;
